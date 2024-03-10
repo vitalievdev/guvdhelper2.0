@@ -29,7 +29,7 @@
 		getTimeAfter: bank helper
 ]]
 
-script_name('GUVD HELPER')
+script_name('GUV HELPER')
 script_description('Удобный помощник для ГУВД ( Родина РП )')
 script_author('Vitaliy_Kiselev')
 script_version('1.0')
